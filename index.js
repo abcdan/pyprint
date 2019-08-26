@@ -1,4 +1,3 @@
-module.exports =  function(...args) {
-  // This is the most useful print package
-return console.log(...args)
+module.exports = function() {
+  return console.log.apply(null, Array.prototype.map.call(arguments, function(item) { return item; }));
 }
