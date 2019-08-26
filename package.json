@@ -1,0 +1,26 @@
+{
+  "name": "pyprint",
+  "version": "1.0.0",
+  "description": "Print like you would in Python, but in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcdan/pyprint.git"
+  },
+  "keywords": [
+    "node.js",
+    "python",
+    "node",
+    "printing",
+    "console.log"
+  ],
+  "author": "abcdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abcdan/pyprint/issues"
+  },
+  "homepage": "https://github.com/abcdan/pyprint#readme"
+}
