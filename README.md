@@ -10,18 +10,18 @@ Simply do the following after you installed it
 const print = require('pyprint')
 
 // Print text
-print("Printing!") 
+print("Printing!")
 // Expected output: Printing!
 
 // Print the results of formulas!
-print(1+2) 
+print(1+2)
 // Expected output: 3
 ```
 
 # Why?
 It's ment as a joke :)
 
-# LicenseMIT License
+# MIT License
 
 Copyright (c) 2019 Daniël
 
