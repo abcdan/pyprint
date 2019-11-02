@@ -19,7 +19,7 @@ print(1+2)
 ```
 
 # Why?
-It's ment as a joke :)
+It's meant as a joke :)
 
 # MIT License
 
